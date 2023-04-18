@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Ex-2-a-_HelloWorld_Activity/blob/main/21.jpeg?raw=true)
 
 
 ## Result:
