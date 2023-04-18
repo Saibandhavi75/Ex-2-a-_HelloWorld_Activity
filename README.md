@@ -130,3 +130,4 @@ public class MainActivity extends AppCompatActivity {
 
 ## Result:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
+
